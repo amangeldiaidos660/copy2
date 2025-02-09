@@ -1,6 +1,6 @@
 import requests
 
-url = 'http://91.201.215.176:3000/b'  
+url = 'http://194.32.140.147:5000/b'  
 
 data = {
     'ver': 'v1',

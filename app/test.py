@@ -45,7 +45,10 @@
 
 import requests
 
-url = 'http://91.201.215.176:3000/a'
+url = 'http://194.32.140.147:5000/a'
+
+
+
 
 data1 = {
     'ver': 'v1',
